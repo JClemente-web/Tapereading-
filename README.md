@@ -11,6 +11,10 @@ Criar uma ferramenta que ajude o trader a interpretar fluxo de ordens, agressõe
 - [`docs/tape-reading-wdo.md`](docs/tape-reading-wdo.md): fundamentos, conceitos e técnicas de Tape Reading aplicadas ao Mini Dólar.
 - [`docs/product-vision.md`](docs/product-vision.md): visão de produto, diferenciais e módulos principais da ferramenta.
 - [`docs/mvp-roadmap.md`](docs/mvp-roadmap.md): proposta de MVP, fases de entrega e critérios de validação.
+- [`docs/senior-execution-plan.md`](docs/senior-execution-plan.md): plano de execução sênior para transformar a ideia em produto profissional.
+- [`docs/research-confluence-matrix.md`](docs/research-confluence-matrix.md): matriz de sinais, confluências, invalidações e referências.
+- [`docs/professional-requirements.md`](docs/professional-requirements.md): requisitos para evitar uma ferramenta banal e orientar o padrão profissional.
+- [`docs/references.md`](docs/references.md): bibliografia anotada com fontes oficiais, funcionais e acadêmicas.
 
 ## Premissas
 
