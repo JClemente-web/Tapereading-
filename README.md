@@ -23,6 +23,7 @@ Criar uma automação profissional que interprete fluxo de ordens, agressões, a
 - [`docs/big-players-and-market-map.md`](docs/big-players-and-market-map.md): critérios para mapear big players por comportamento, impacto e recorrência.
 - [`docs/source-search-log.md`](docs/source-search-log.md): log de buscas, fontes escolhidas, fontes rejeitadas e impacto no projeto.
 - [`docs/wdo-research-questions.md`](docs/wdo-research-questions.md): 100 perguntas de investigação aprofundada focadas exclusivamente em Mini Dólar (WDO), ProfitPro/Nelogica e automação.
+- [`docs/wdo-research-harness-master-prompt.md`](docs/wdo-research-harness-master-prompt.md): prompt mestre para execução controlada e auditável do harness WDO sem alterar estratégia, parâmetros ou custos.
 
 ## Premissas
 
